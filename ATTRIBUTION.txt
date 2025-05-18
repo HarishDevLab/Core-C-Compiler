@@ -49,16 +49,7 @@ This application provides:
 
 ---
 
-## Legal & Compliance
-
-You are allowed to distribute this application **commercially**, as long as:
-- You retain the original license texts from the GCC toolchain.
-- You do not misrepresent the origins or ownership of the third-party components.
-- You clearly separate your own license (MIT) from GCC's licenses (GPL with exceptions).
-
----
-
 ## Contact
 
-Project Maintainer: [Your Name or Handle]  
-Repository: https://github.com/your-username/your-repo
+Project Maintainer: Harish RAJ  
+Repository: https://github.com/HarishDevLab/Core-C-Compiler

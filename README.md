@@ -53,4 +53,4 @@ All licenses for GCC and associated tools are included in the `ATTRIBUTION.txt`.
 ## License
 
 This project is licensed under the MIT License.  
-See [LICENSE.txt](LICENSE.txt) for full license terms.
+See [LICENSE.txt](https://github.com/HarishDevLab/Core-C-Compiler/blob/main/LICENSE) for full license terms.

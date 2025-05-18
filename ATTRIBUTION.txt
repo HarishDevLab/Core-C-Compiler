@@ -1,0 +1,64 @@
+CORE-C: Attribution & Third-Party Licenses
+------------------------------------------
+
+## Overview
+
+CORE-C is a standalone, portable C compiler powered by the GCC toolchain (MinGW-w64) from WinLibs. It uses Python for the interface and ships with all dependencies embedded.
+
+This file provides attribution and licensing information for the third-party tools and libraries used within this application.
+
+---
+
+## GCC (GNU Compiler Collection)
+
+- **Version**: GCC 15.1.0 (x86_64, UCRT, POSIX, SEH)
+- **Source**: https://winlibs.com/
+- **Bundled From**: https://github.com/brechtsanders/winlibs_mingw
+- **Author**: Brecht Sanders
+
+### GCC License Summary
+
+- **GCC Compiler**:
+  - License: GNU General Public License (GPL) version 3 or later
+  - With Runtime Library Exception: https://gcc.gnu.org/onlinedocs/libstdc++/manual/license.html
+
+- **MinGW-w64 Libraries**:
+  - License: Multiple licenses including:
+    - GNU Lesser General Public License (LGPL)
+    - Microsoft Public License (MS-PL)
+    - BSD-style licenses
+
+Full license texts can be accessed through the GCC and MinGW-w64 project pages.
+
+---
+
+## Documentation
+
+This application provides:
+
+- A simple and clean file editor for C source code
+- Compilation and execution via embedded GCC
+- Interactive command-line interface mimicking real compiler behavior
+- Real-time support for `scanf` and `printf` operations
+
+---
+
+## Additional Features
+
+- **Standalone Execution**: Can run on any Windows machine without setup
+
+---
+
+## Legal & Compliance
+
+You are allowed to distribute this application **commercially**, as long as:
+- You retain the original license texts from the GCC toolchain.
+- You do not misrepresent the origins or ownership of the third-party components.
+- You clearly separate your own license (MIT) from GCC's licenses (GPL with exceptions).
+
+---
+
+## Contact
+
+Project Maintainer: [Your Name or Handle]  
+Repository: https://github.com/your-username/your-repo

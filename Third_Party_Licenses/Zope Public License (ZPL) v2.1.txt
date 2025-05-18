@@ -1,0 +1,15 @@
+Zope Public License (ZPL) Version 2.1
+
+A copyright license for software accompanying this license (the "Software") is hereby granted, free of charge, to any person obtaining a copy of the Software, to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. Redistributions of the Software in source code form must retain the accompanying copyright notice, this list of conditions, and the following disclaimer.
+2. Redistributions in binary form must reproduce the accompanying copyright notice, this list of conditions, and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. The name Zope Corporation (tm) must not be used to endorse or promote products derived from the Software without prior written permission from Zope Corporation.
+4. The right to distribute the Software or to use it for any purpose does not give you the right to use Servicemarks (sm) or Trademarks (tm) of Zope Corporation. Use of them is covered only in a separate written agreement from Zope Corporation.
+5. If any files are modified, you must cause the modified files to carry prominent notices stating that you changed the files and the date of any change.
+Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT.
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+

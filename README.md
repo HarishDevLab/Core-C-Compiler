@@ -7,6 +7,13 @@ No installation needed — just download and run!
 
 ---
 
+## Support This Project
+
+[Buy Me a Coffee](https://buymeacoffee.com/harishdevlab)  
+[Support via UPI](https://drive.google.com/file/d/153n7zxHg-srjOmtZEUESpnN_FlQbBKko/view?usp=sharing)
+
+---
+
 ## About
 
 CORE-C is a completely portable, real-time C compiler and execution tool built with Python and embedded GCC (WinLibs). It allows users to compile and run C programs dynamically, with full real-time interaction support.

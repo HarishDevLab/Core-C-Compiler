@@ -60,5 +60,5 @@ This project is proprietary and not open-source.
 You may not copy, modify, or redistribute without permission.
 
 ## Contact for collaboration or licensing
-📧 harishrajrt007@gmail.com  
-🌐 https://github.com/HarishDevLab
+harishrajrt007@gmail.com  
+https://github.com/HarishDevLab

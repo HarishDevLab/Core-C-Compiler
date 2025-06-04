@@ -35,7 +35,7 @@ CORE-C is a completely portable, real-time C compiler and execution tool built w
 1. Download the `Core-C.exe` from the [Releases](https://github.com/HarishDevLab/Core-C-Compiler/releases).
 2. Run `.exe` file.
 3. Type your C code in the editor window.
-4. Press `F5` or click **Run** to compile and execute.
+4. Click **Run** to compile and execute.
 5. The output will appear in the real-time console.
 
 ---
@@ -54,3 +54,11 @@ This project uses:
 - **Python 3.13** with `tkinter` for GUI
 
 All licenses for GCC and associated tools are included in the `ATTRIBUTION.txt`.
+
+## License
+This project is proprietary and not open-source.
+You may not copy, modify, or redistribute without permission.
+
+## Contact for collaboration or licensing
+📧 harishrajrt007@gmail.com  
+🌐 https://github.com/HarishDevLab

@@ -68,9 +68,9 @@ This project uses:
 All licenses for GCC and associated tools are included in the `ATTRIBUTION.txt`.
 
 ## License
-This project is proprietary and not open-source.
-You may not copy, modify, or redistribute without permission.
+This project is open-source.
 
-## Contact for collaboration or licensing
+
+## Contact for collaboration
 harishrajrt007@gmail.com  
 https://github.com/HarishDevLab
